@@ -1,0 +1,51 @@
+[
+    {
+        "name":"Uday",
+        "Eduction":"BE in ME",
+        "Email":"uday@123.com",
+        "Phno":"9539263089",
+        "Age":24
+    },
+    {
+        "name":"Abhi",
+        "Eduction":"BE in ME",
+        "Email":"abhi@123.com",
+        "Phno":"9539263089",
+        "Age":25
+    },
+    {
+        "name":"Vithal",
+        "Eduction":"BE in ME",
+        "Email":"vithal@123.com",
+        "Phno":"9539263089",
+        "Age":20
+    },
+    {
+        "name":"Santu",
+        "Eduction":"BE in ME",
+        "Email":"santu@123.com",
+        "Phno":"9539263089",
+        "Age":23
+    },
+    {
+        "name":"Appu",
+        "Eduction":"BE in ME",
+        "Email":"appu@123.com",
+        "Phno":"9539263089",
+        "Age":29
+    },
+    {
+        "name":"Ramkrishna",
+        "Eduction":"BE in ME",
+        "Email":"ram@123.com",
+        "Phno":"9539263089",
+        "Age":22
+    },
+    {
+        "name":"Darshn",
+        "Eduction":"BE in ME",
+        "Email":"darsh@123.com",
+        "Phno":"9539263089",
+        "Age":29
+    }
+]
